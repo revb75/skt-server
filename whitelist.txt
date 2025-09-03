@@ -4,8 +4,9 @@
 # Lines starting with # are comments
 
 # Google (for school login)
-google.com
+npr.org
 
 # Add your lesson sites below:
 # Example: khanacademy.org
+
 
