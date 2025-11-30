@@ -1,0 +1,11 @@
+# Keyosk Whitelist
+# Add domains you want students to access in lockdown mode
+# One domain per line (no http://, no www)
+# Lines starting with # are comments
+
+# Google (for school login)
+google.com
+
+# Add your lesson sites below:
+# Example: khanacademy.org
+
